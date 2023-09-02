@@ -7,4 +7,4 @@ Things we need to find,
 
 # Excel Project
 I also Uploaded my excel project
-where i used Xlookup,index with match and much more formulas to populate the data and created a interactive Dashboard
+where i used Xlookup,vlookup,pivot tables,index with match and much more formulas to populate the data and created a interactive Dashboard
